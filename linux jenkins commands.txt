@@ -1,0 +1,82 @@
+ 1  cd /
+    2  apt update
+    3  java --version
+    4  apt install openjdk-11-jre-headless
+    5  java --version
+    6  apt install git
+    7  mkdir veera
+    8  ls
+    9  cd veera
+   10  git clone https://github.com/achantaveeraseshasai/veera.git
+   11  ls
+   12  cd jenkins
+   13  git clone https://github.com/achantaveeraseshasai/achanta.git
+   14  ls
+   15  cd achanta
+   16  la
+   17  rm -d Cast.class
+   18  rm -r Cast.class
+   19  rm -r .git
+   20  ls
+   21  rm -r Cast2.class
+   22  la
+   23  rm -r veera
+   24  ls
+   25  la
+   26  ls
+   27  apt upgate
+   28  apt update
+   29  git init
+   30  javac Cast2.java
+   31  apt install openjdk-11-jdk-headless
+   32  ls
+   33  javac Cast2.java
+   34  java Cast2.java
+   35  java Cast2
+   36  cd /
+   37  jenkins --version
+   38  echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]     https://pkg.jenkins.io/debian-stable binary/ | sudo tee     /etc/apt/sources.list.d/jenkins.list > /dev/null
+   39  sudo apt-get update
+   40  jenkins --version
+   41  clear
+   42  cd /
+   43  echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]     https://pkg.jenkins.io/debian-stable binary/ | sudo tee     /etc/apt/sources.list.d/jenkins.list > /dev/null
+   44  sudo apt-get update
+   45  jenkins --version
+   46  ls
+   47  cd etc
+   48  ls
+   49  cd default
+   50  ls
+   51  vi jenkins
+   52  vi veera
+   53  history
+   54  cd ..
+   55  cd /
+   56  cd veera
+   57  systemctl status jenkins
+   58  jenkins --version
+   59  apt install openjdk-11-jre-headless
+   60  apt update
+   61  sudo wget -O /usr/share/keyrings/jenkins-keyring.asc     https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key
+   62  echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]     https://pkg.jenkins.io/debian-stable binary/ | sudo tee     /etc/apt/sources.list.d/jenkins.list > /dev/null
+   63  sudo apt-get update
+   64  sudo apt-get install fontconfig openjdk-11-jre
+   65  sudo apt-get install jenkins
+   66  systemctl status jenkins
+   67  javac Cast2.java
+   68  ls
+   69  cd achanta
+   70  ls
+   71  javac Cast2.java
+   72  java Cast2
+   73  cd /
+   74  cd veera
+   75  ls
+   76  cd veera
+   77  javac Cast2.java
+   78  ls
+   79  javac Cast2.class
+   80  javac Cast2.java
+   81  hostory
+   82  history
